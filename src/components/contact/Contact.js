@@ -1,10 +1,10 @@
 import React from 'react';
-import './ccontact.css';
+import './contact.css';
 
 export default function Contact() {
   return (
     <div>
-      
+      contact
     </div>
   )
 }
