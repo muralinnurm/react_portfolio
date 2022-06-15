@@ -9,7 +9,7 @@ export default function Header() {
     <header>
       <div className="container header-container">
         <h5>Hello I'm</h5>
-        <h1>Morsalin Nur Mahim</h1>
+        <h1>Morsalin Nur</h1>
         <h5 className="text-light">Front-End Developer</h5>
         <CTA />
         <HeaderSocial/>
