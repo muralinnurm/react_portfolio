@@ -13,12 +13,12 @@
 :root {
     /* colors variables */
     --bg-color: #004141;
-    --bg-color-variant: #2c2c6c;
+    --bg-color-variant: #1a5252;
     --primery: #00ffff; 
     --primery-vairiant: #00ffff8c;
     --white: #fff;
     --black: #000;
-    --light: rgba(255,255,265, .6);
+    --light: rgba(255,255,265, .8);
 
     /* containers variables */
     --container-lg: 75%;
