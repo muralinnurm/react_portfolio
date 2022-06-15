@@ -3,8 +3,8 @@ import './experince.css';
 
 export default function Experince() {
   return (
-    <div>
+    <section id='experince'>
       Experince
-    </div>
+    </section>
   )
 }

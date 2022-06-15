@@ -2,8 +2,8 @@ import React from 'react'
 import "./services.css"
 export default function Services() {
   return (
-    <div>
+    <section id='service'>
       Services
-    </div>
+    </section>
   )
 }

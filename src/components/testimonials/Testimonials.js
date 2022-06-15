@@ -2,8 +2,8 @@ import React from 'react'
 import "./testimonials.css"
 export default function Testimonials() {
   return (
-    <div>
+    <section id='testimonials'>
       Testimonials
-    </div>
+    </section>
   )
 }
