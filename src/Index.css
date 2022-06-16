@@ -37,6 +37,7 @@ body{
     color: var(--white);
     line-height: 1.7;
     background-image: url('assets/bg-texture.png');
+    user-select: none;
 }
 ::-webkit-scrollbar{
     display: none;
@@ -56,7 +57,7 @@ h1{
 }
 section{
     margin-top: 8rem;
-    height: 100vh;
+    height: auto;
 }
 section > h2, section > h5{
     text-align: center;
