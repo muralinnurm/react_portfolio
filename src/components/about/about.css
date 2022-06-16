@@ -7,7 +7,7 @@
     width: 100%;
     aspect-ratio: 1/1.2;
     border-radius: 2rem;
-    background: linear-gradient(45deg, transparent, var(--primery), transparent);
+    background: linear-gradient(45deg, transparent, var(--primary), transparent);
     display: grid;
     place-items: center;
 }
@@ -39,10 +39,10 @@
 }
 .about-card:hover{
     background: transparent;
-    border-color: var(--primery-vairiant);
+    border-color: var(--primary-vairiant);
 }
 .about-icon{
-    color: var(--primery);
+    color: var(--primary);
     font-size: 1.4rem;
     margin-bottom: 1rem;
 }

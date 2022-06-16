@@ -57,7 +57,7 @@ export default function Experince() {
           </div>
         </div>
         <div className="experince-other">
-          <h3>Other Experince</h3>
+          <h3>CMS Experince</h3>
           <div className="experince-content">
             <article className='experince-details'>
               <BsPatchCheckFill className='experince-details-icon'/>

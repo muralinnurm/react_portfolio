@@ -14,8 +14,8 @@
     /* colors variables */
     --bg-color: #004141;
     --bg-color-variant: #1a5252;
-    --primery: #00ffff; 
-    --primery-vairiant: #00ffff8c;
+    --primary: #00ffff; 
+    --primary-vairiant: #00ffff8c;
     --white: #fff;
     --black: #000;
     --light: rgba(255,255,265, .8);
@@ -64,14 +64,14 @@ section > h2, section > h5{
     color: var(--light);
 }
 section > h2{
-    color: var(--primery);
+    color: var(--primary);
     margin-bottom: 3rem;
 }
 .text-light{
     color: var(--light);
 }
 a{
-    color: var(--primery);
+    color: var(--primary);
     transition: var(--transition);
 }
 a:hover{
@@ -80,10 +80,10 @@ a:hover{
 .btn {
     width: max-content;
     display: inline-block;
-    color: var(--primery);
+    color: var(--primary);
     padding: 0.75rem 1.2rem;
     border-radius: 0.4rem;
-    border: 1px solid var(--primery);
+    border: 1px solid var(--primary);
     transition: var(--transition);
 }
 .btn:hover{
@@ -92,7 +92,7 @@ a:hover{
     border-color: transparent;
 }
 .btn-primery{
-    background: var(--primery);
+    background: var(--primary);
     color: var(--bg-color);
 }
 img{

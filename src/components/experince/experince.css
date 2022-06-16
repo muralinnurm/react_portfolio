@@ -14,13 +14,13 @@
 }
 .experince-container > div:hover {
     background-color: transparent;
-    border: 1px solid var(--primery-vairiant);
+    border: 1px solid var(--primary-vairiant);
 }
 
 .experince-container > div h3{
     text-align: center;
     margin-bottom: 2rem;
-    color: var(--primery);
+    color: var(--primary);
 }
 .experince-content{
     display: grid;
@@ -34,7 +34,7 @@
 
 .experince-details-icon{
     margin-top: 6px;
-    color: var(--primery);
+    color: var(--primary);
 }
 
 

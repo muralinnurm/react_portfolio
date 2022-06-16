@@ -35,13 +35,13 @@ header{
     content: '';
     width: 1px;
     height: 2rem;
-    background-color: var(--primery);
+    background-color: var(--primary);
 }
 
 /* ======================My image====================== */
 
 .header-container .me{
-    background: linear-gradient(var(--primery), transparent);
+    background: linear-gradient(var(--primary), transparent);
     width: 17rem ;
     height: 30rem;
     position: absolute;
