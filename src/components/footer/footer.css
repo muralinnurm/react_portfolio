@@ -14,12 +14,18 @@ footer a{
     margin-bottom: 2rem ;
     display: inline-block;
 }
+.footer-logo:hover{
+    color: var(--bg-color);
+}
 .permalinks{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 2rem;
     margin: 0 auto 3rem;
+}
+.permalinks:hover{
+    color: var(--bg-color);
 }
 .footer-social{
     display: flex;
