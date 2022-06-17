@@ -55,8 +55,8 @@ export default function Contact() {
 
         <form ref={form} onSubmit={sendEmail}>
           <input type="text" name='name' placeholder='Your Full Name' required autoComplete='off' />
-          <input type="text" name='subject' placeholder='Your Subject' required autoComplete='off' />
           <input type="email" name="email" placeholder='Your Email' required autoComplete='off' />
+          <input type="text" name='subject' placeholder='Subject' required autoComplete='off' />
           <textarea name="message" rows="7" placeholder='Your Message' required></textarea>
           <button type='submit' className='btn btn-primary submit-btn'>Send Message</button>
         </form>
