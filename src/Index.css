@@ -37,7 +37,7 @@ body{
     color: var(--white);
     line-height: 1.7;
     background-image: url('assets/bg-texture.png');
-    user-select: none;
+    user-select: none;  
 }
 ::-webkit-scrollbar{
     display: none;
@@ -91,7 +91,7 @@ a:hover{
     color: var(--bg-color);
     border-color: transparent;
 }
-.btn-primery{
+.btn-primary{
     background: var(--primary);
     color: var(--bg-color);
 }

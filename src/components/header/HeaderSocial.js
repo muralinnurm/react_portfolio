@@ -1,7 +1,7 @@
-import React from 'react'
-import {BsFacebook} from 'react-icons/bs'
-import {BsGithub} from 'react-icons/bs'
-import {AiFillBehanceCircle} from 'react-icons/ai'
+import React from 'react';
+import {BsFacebook} from 'react-icons/bs';
+import {BsGithub} from 'react-icons/bs';
+import {AiFillBehanceCircle} from 'react-icons/ai';
 
 export default function HeaderSocial() {
   return (
