@@ -25,7 +25,7 @@ footer a{
     display: flex;
     justify-content: center;
     gap: 1rem;
-    margin-bottom: 4rem;
+    margin-bottom: 2rem;
 }
 .footer-social a{
     background: var(--bg-color);
@@ -41,11 +41,13 @@ footer a{
     border-color: var(--bg-color);
 }
 .footer-copyright{
-    font-weight: 500;
     margin-bottom: 4rem;
     color: var(--bg-color);
 }
-
+.footer-copyright small{
+    font-weight: 500;
+    font-size: .9rem;
+}
 
 /* media queries (small devices) */
 @media screen and (max-width: 600px) {
